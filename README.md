@@ -13,7 +13,6 @@ Extracting data from Source database and loading to target database
 AdventureWorks2016_us - sql server 
 </li>
 <li>
-
 AdventureWorks2016_eu - mysql  
 </li>
 <li>
